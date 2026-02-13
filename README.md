@@ -4,7 +4,7 @@ A responsive financial transaction dashboard built with **Next.js 15**, **TypeSc
 
 ## Live Demo
 
-> _Link will be added after deployment_
+**https://transactions-insights-dashboard.vercel.app/**
 
 ## Setup
 
